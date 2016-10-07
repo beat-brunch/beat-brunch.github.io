@@ -567,7 +567,7 @@ p,h1,h2,h3,h4,h5,h6,ol,ul,span.actAsPara /* disable Android font boosting */
 {
 	z-index: 1;
 	width: 1170px;
-	min-height: 10000px;
+	min-height: 9150px;
 	background-image: none;
 	border-width: 0px;
 	border-color: transparent;
